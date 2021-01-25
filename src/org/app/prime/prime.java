@@ -3,7 +3,7 @@ package org.app.prime;
 public class prime {
     public static boolean is_prime(long n) {
         /* 
-            * This method checks the a number whether it is prime or not 
+            * This method checks a number whether it is prime or not 
             * n --> long 
             * base conditions 
                 * if n is less than or equal to 3 and not equal to 1 then it returns true
